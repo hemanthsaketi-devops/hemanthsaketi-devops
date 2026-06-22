@@ -81,13 +81,6 @@ Production-ready AWS infrastructure using Terraform with:
 - Security Groups
 - Remote State Management
 
-### Trust Fix
-Home Services Platform built using:
-- Node.js
-- PostgreSQL
-- Next.js
-- AWS Infrastructure
-
 ## Connect With Me
 
 - Email: saketihemanthkumar@gmail.com
